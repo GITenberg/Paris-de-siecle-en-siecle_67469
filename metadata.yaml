@@ -1,0 +1,37 @@
+_repo: Paris-de-siecle-en-siecle_67469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Albert_Robida
+    - https://en.wikipedia.org/wiki/Albert_Robida
+description: ''
+gutenberg_issued: '2022-02-22'
+identifiers:
+  gutenberg: '67469'
+  lccn: '33031946'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k1025084z
+pgterms:marc905: 20201114094640robida
+pgterms:marc906: '1895'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :A la librairie illustrée,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- History'
+- !lcsh 'Paris (France) -- Description and travel'
+- GITenberg
+title: Paris de siècle en siècle
+url: http://www.gutenberg.org/ebooks/67469
