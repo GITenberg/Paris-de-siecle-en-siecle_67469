@@ -1,5 +1,8 @@
 _repo: Paris-de-siecle-en-siecle_67469
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67469-h/images/cover.jpg
 creator:
   author:
     agent_name: Robida, Albert
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Albert_Robida
     - https://en.wikipedia.org/wiki/Albert_Robida
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67469#Paris-de-siecle-en-siecle
 gutenberg_issued: '2022-02-22'
 identifiers:
   gutenberg: '67469'
